@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">foodApp</string>
+    <string name="string">khaled</string>
+    <!-- TODO: Remove or change this placeholder text -->
+
+    <string name="favoriteFragment">Favorite Fragment</string>
+    <string name="homeFragment">Home Fragment</string>
+    <string name="categoryFragment">Category Fragment</string>
+    <string name="home">Home</string>
+    <string name="favorite">Favorite</string>
+    <string name="category">Category</string>
+    <string name="what_want_to_eat">What would you like to eat</string>
+    <string name="categories">categories</string>
+</resources>
